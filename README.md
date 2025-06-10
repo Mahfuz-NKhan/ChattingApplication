@@ -1,1 +1,1 @@
-"# ChattingApplication" 
+"Developed a real-time Java-based Chatting Application using Java Sockets and multithreading, enabling peer-to-peer and group messaging with secure message exchange and a responsive GUI built with Swing. "# ChattingApplication" 
